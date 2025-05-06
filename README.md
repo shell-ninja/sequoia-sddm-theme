@@ -1,6 +1,7 @@
 <h1 align='center'>Updated Sequoia SDDM Theme</h1>
-#### I have updated the base [Sequoia](https://codeberg.org/minMelody/sddm-sequoia) sddm theme for myself. <br>
-#### Download the original from [pling](https://www.pling.com/p/2191680/).
+
+I have updated the base [Sequoia](https://codeberg.org/minMelody/sddm-sequoia) sddm theme for myself. <br>
+Download the original from [pling](https://www.pling.com/p/2191680/).
 
 ### Dependencies
 
