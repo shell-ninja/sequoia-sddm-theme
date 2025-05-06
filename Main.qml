@@ -33,7 +33,8 @@ Pane {
   property bool activateVirtualKeyboard: config.boolValue("virtualKeyboardStartActive")
   property bool animationsEnabled: config.boolValue("enableAnimations")
 
-  font.family: config.fontFamily
+  // font.family: config.fontFamily
+  font.family: "JetBrainsMono Nerd Font"
   font.pointSize: config.fontSize || (Math.min(width, height) / 80)
   property string iconFont: config.iconFont || config.fontFamily
 
