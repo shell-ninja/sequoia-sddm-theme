@@ -28,7 +28,7 @@ Now follow these steps:
 
 ```bash
 sudo mkdir -p /etc/sddm.conf.d/
-sudo nvim /etc/sddm.conf.d/theme.conf.user
+sudo touch /etc/sddm.conf.d/theme.conf.user
 
 echo -e "[Theme]\nCurrent=sequoia-sddm-theme" | sudo tee /etc/sddm.conf.d/theme.conf.user
 ```
